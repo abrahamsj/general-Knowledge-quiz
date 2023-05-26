@@ -1,2 +1,2 @@
-# project0
-A simple general knowlege quiz to practice HTML and CSS. 
+# project0 : General Knowledge Quiz
+A simple general knowledge quiz to practice HTML and CSS. 
